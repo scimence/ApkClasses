@@ -1,0 +1,16 @@
+﻿服务器资源目录(https://raw.githubusercontent.com/scimence/ApkClasses/master/)
+本地资源目录(E:\tmp\ApkClasses\)
+
+待更新文件(
+
+ApkClasses.exe(e7ae254e57196a11cf8239c172d30253)
+LICENSE(24ca3bcdc5a9617eb7a53acbda482618)
+note.html(5ce1aae9ecc611bd0d1394ee3ff8e4f2)
+README.md(03bc68d0504dae1127af836da0e629b)
+files/ApkClasses.zip(74c53f855bcf84df27263614334bc083)
+files/ApkClassesNote.png(645ba7b3b7767d30363f13b7e68fd548)
+files/ApkClasses_20181108.zip(c45fab78a822894e5f128007233183c6)
+files/ApkClasses_20181109.7z.zip(92721edb8e2414b4ee7c8b262450edb4)
+
+)待更新文件
+
